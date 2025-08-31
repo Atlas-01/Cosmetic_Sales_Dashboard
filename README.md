@@ -52,7 +52,8 @@ The dashboard provides insights into **revenue, products, countries, and salespe
 ![Cosmetic Sales Dashboard](images/dashboard_screenshot.png)
 
 
-*(Upload your screenshot into a folder named `images/` and replace the link above.)*  
+
+ 
 
 ---
 
