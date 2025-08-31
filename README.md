@@ -49,7 +49,7 @@ The dashboard provides insights into **revenue, products, countries, and salespe
 ---
 
 ## 📷 Dashboard Preview
-![Cosmetic Sales Dashboard](images/dashboard_screenshot.png)
+![Cosmetic Sales Dashboard](Cosmetic-Sales-Dashboard/images/dashboard_screenshot.png)
 
 
 
